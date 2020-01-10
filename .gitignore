@@ -3,3 +3,7 @@
 .idea/
 
 venv/
+
+xml/*.xml
+
+logs/flashgun.log
