@@ -16,7 +16,7 @@ Key features
 
 Folder Structure
 ----------------
-The following folders must be placed in the root directory of ffplayout
+The following folders must be placed in the root directory of flashgun
 ```
 doc
 logs
